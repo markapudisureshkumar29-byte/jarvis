@@ -1,0 +1,19 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# JARVIS local data
+jarvis_memory.dat
+
+# Secrets
+.env
+*.env
+secrets/
+config/secrets/
+
+# OS files
+.DS_Store
+Thumbs.db
